@@ -1,0 +1,706 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "E94EB5FF-6BF2-4D00-8F36-4FE5DB156C03"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EC2EAC1F-6070-4AA7-8435-C353324ABBFE"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TCHA/CoreAndUtils/CustomUI/CustomSnackbar/SnackBarView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "85"
+            endingLineNumber = "85"
+            landmarkName = "configure()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7F048A01-BB53-4A68-9F70-3DFE39BB1107"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TCHA/CoreAndUtils/CustomUI/CustomSnackbar/SnackBarView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "84"
+            endingLineNumber = "84"
+            landmarkName = "configure()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "725CA5C8-4B2B-4D52-A309-F9DDDC5EC1A7"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TCHA/CoreAndUtils/CustomUI/CustomSnackbar/SnackBarView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "63"
+            endingLineNumber = "63"
+            landmarkName = "init(frame:viewModel:viewController:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "52D516F4-0EBC-4E25-96BA-B1C513F73BC7"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TCHA/Core/Authentification/Managers/AuthentificationFormManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "19"
+            endingLineNumber = "19"
+            landmarkName = "GeneralFieldsNumber"
+            landmarkType = "13">
+            <Locations>
+               <Location
+                  uuid = "52D516F4-0EBC-4E25-96BA-B1C513F73BC7 - a0605b4a345c2f53"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TCHA.SignInrequiredFields.rawValue.getter : Swift.Int"
+                  moduleName = "TCHA"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yannickedouard/Desktop/iosProjectsApp/TCHA/TCHA/TCHA/Core/Authentification/Managers/AuthentificationFormManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "112">
+               </Location>
+               <Location
+                  uuid = "52D516F4-0EBC-4E25-96BA-B1C513F73BC7 - 2794f0dc93ed247a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TCHA.SignInrequiredFields.init(rawValue: Swift.Int) -&gt; Swift.Optional&lt;TCHA.SignInrequiredFields&gt;"
+                  moduleName = "TCHA"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yannickedouard/Desktop/iosProjectsApp/TCHA/TCHA/TCHA/Core/Authentification/Managers/AuthentificationFormManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "136">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3DDE8143-573A-4C60-A911-25736DAE7479"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TCHA/CoreAndUtils/CustomUI/CustomButtons/CustomButton.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "44"
+            endingLineNumber = "44"
+            landmarkName = "setupMainButton(cornerRadius:padding:font:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1D17C13F-46F3-49F4-ABE1-F40B27967FB7"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TCHA/CoreAndUtils/CustomUI/CustomViews/AuthRoundedFormView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "75"
+            endingLineNumber = "75"
+            landmarkName = "setupConstraints()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "1D17C13F-46F3-49F4-ABE1-F40B27967FB7 - 1de33a43bedd8992"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TCHA.AuthRoundedFormView.setupConstraints() -&gt; ()"
+                  moduleName = "TCHA"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yannickedouard/Desktop/iosProjectsApp/TCHA/TCHA/TCHA/CoreAndUtils/CustomUI/CustomViews/AuthRoundedFormView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "77"
+                  endingLineNumber = "77"
+                  offsetFromSymbolStart = "156">
+               </Location>
+               <Location
+                  uuid = "1D17C13F-46F3-49F4-ABE1-F40B27967FB7 - 1de33a43bedd8992"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TCHA.AuthRoundedFormView.setupConstraints() -&gt; ()"
+                  moduleName = "TCHA"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yannickedouard/Desktop/iosProjectsApp/TCHA/TCHA/TCHA/CoreAndUtils/CustomUI/CustomViews/AuthRoundedFormView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "77"
+                  endingLineNumber = "77"
+                  offsetFromSymbolStart = "200">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "15DDD7F7-CFA2-4B69-B706-7DEF5FC9E833"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TCHA/CoreAndUtils/CustomUI/CustomViews/AuthRoundedFormView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "78"
+            endingLineNumber = "78"
+            landmarkName = "setupConstraints()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "15DDD7F7-CFA2-4B69-B706-7DEF5FC9E833 - 1de33a43bedd89d4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TCHA.AuthRoundedFormView.setupConstraints() -&gt; ()"
+                  moduleName = "TCHA"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yannickedouard/Desktop/iosProjectsApp/TCHA/TCHA/TCHA/CoreAndUtils/CustomUI/CustomViews/AuthRoundedFormView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "79"
+                  endingLineNumber = "79"
+                  offsetFromSymbolStart = "224">
+               </Location>
+               <Location
+                  uuid = "15DDD7F7-CFA2-4B69-B706-7DEF5FC9E833 - f6e351944a132814"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (SnapKit.ConstraintMaker) -&gt; () in TCHA.AuthRoundedFormView.setupConstraints() -&gt; ()"
+                  moduleName = "TCHA"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yannickedouard/Desktop/iosProjectsApp/TCHA/TCHA/TCHA/CoreAndUtils/CustomUI/CustomViews/AuthRoundedFormView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "80"
+                  endingLineNumber = "80"
+                  offsetFromSymbolStart = "64">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "97289672-1AE6-4DC6-900F-DB2F67093AE0"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TCHA/CoreAndUtils/CustomUI/CustomViews/AuthRoundedFormView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "82"
+            endingLineNumber = "82"
+            landmarkName = "setupConstraints()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "604B7FEB-EC62-4603-BF42-217D32E540B9"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TCHA/CoreAndUtils/CustomUI/CustomViews/AuthRoundedFormView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "84"
+            endingLineNumber = "84"
+            landmarkName = "setupConstraints()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "22C119E5-2BAE-4705-9AA6-DE5A032EF25D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TCHA/CoreAndUtils/CustomUI/CustomViews/AuthRoundedFormView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "85"
+            endingLineNumber = "85"
+            landmarkName = "setupConstraints()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "60B1C1D2-DE14-4605-A115-830BB04E8E50"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TCHA/CoreAndUtils/CustomUI/CustomViews/AuthRoundedFormView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "91"
+            endingLineNumber = "91"
+            landmarkName = "setupConstraints()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "34E74EDB-2F8E-496F-98F6-A27D6A72BDE3"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TCHA/Core/Authentification/Controllers/UsesConditionsViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "90"
+            endingLineNumber = "90"
+            landmarkName = "setupStackViews()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "28B95981-FFED-4129-9890-EF3D2C346FA9"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TCHA/Core/Authentification/Controllers/UsesConditionsViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "109"
+            endingLineNumber = "109"
+            landmarkName = "setupStacksElements()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5BF19105-C51C-4F75-9324-2AA28E3D744B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TCHA/Core/Routes/SearchRoutes/ViewsControllers/SearchRoutesUIView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "207"
+            endingLineNumber = "207"
+            landmarkName = "setupBookingForm()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5F845C18-2632-45C1-9F52-2CE05E24ED73"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TCHA/Core/Authentification/Controllers/MainViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "42"
+            endingLineNumber = "42"
+            landmarkName = "setupConstraints()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0B198F33-946E-49BE-800B-00C1C995E0FE"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TCHA/CoreAndUtils/CustomUI/UIKIT/CustomViews/AuthRoundedFormView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "237"
+            endingLineNumber = "237"
+            landmarkName = "onFormValidate()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "0B198F33-946E-49BE-800B-00C1C995E0FE - 15d0b67720bb8c62"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TCHA.AuthRoundedFormView.onFormValidate() -&gt; ()"
+                  moduleName = "TCHA"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yannickedouard/Desktop/iosProjectsApp/TCHA/TCHA/TCHA/CoreAndUtils/CustomUI/UIKIT/CustomViews/AuthRoundedFormView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "244"
+                  endingLineNumber = "244"
+                  offsetFromSymbolStart = "880">
+               </Location>
+               <Location
+                  uuid = "0B198F33-946E-49BE-800B-00C1C995E0FE - 99dbee52226f9504"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;__C.FIRAuthDataResult&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in TCHA.AuthRoundedFormView.onFormValidate() -&gt; ()"
+                  moduleName = "TCHA"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yannickedouard/Desktop/iosProjectsApp/TCHA/TCHA/TCHA/CoreAndUtils/CustomUI/UIKIT/CustomViews/AuthRoundedFormView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "246"
+                  endingLineNumber = "246"
+                  offsetFromSymbolStart = "52">
+               </Location>
+               <Location
+                  uuid = "0B198F33-946E-49BE-800B-00C1C995E0FE - 15d0b67720bb8c62"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TCHA.AuthRoundedFormView.onFormValidate() -&gt; ()"
+                  moduleName = "TCHA"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yannickedouard/Desktop/iosProjectsApp/TCHA/TCHA/TCHA/CoreAndUtils/CustomUI/UIKIT/CustomViews/AuthRoundedFormView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "244"
+                  endingLineNumber = "244"
+                  offsetFromSymbolStart = "932">
+               </Location>
+               <Location
+                  uuid = "0B198F33-946E-49BE-800B-00C1C995E0FE - 15d0b67720bb8c62"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TCHA.AuthRoundedFormView.onFormValidate() -&gt; ()"
+                  moduleName = "TCHA"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yannickedouard/Desktop/iosProjectsApp/TCHA/TCHA/TCHA/CoreAndUtils/CustomUI/UIKIT/CustomViews/AuthRoundedFormView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "244"
+                  endingLineNumber = "244"
+                  offsetFromSymbolStart = "1032">
+               </Location>
+               <Location
+                  uuid = "0B198F33-946E-49BE-800B-00C1C995E0FE - 99dbee52226f9504"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;__C.FIRAuthDataResult&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in TCHA.AuthRoundedFormView.onFormValidate() -&gt; ()"
+                  moduleName = "TCHA"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yannickedouard/Desktop/iosProjectsApp/TCHA/TCHA/TCHA/CoreAndUtils/CustomUI/UIKIT/CustomViews/AuthRoundedFormView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "246"
+                  endingLineNumber = "246"
+                  offsetFromSymbolStart = "64">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5216FB00-BE6F-4CCC-8BB9-026556B6A467"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TCHA/Core/Authentification/Managers/WebServiceManager/AuthManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "30"
+            endingLineNumber = "30"
+            landmarkName = "createUserWith(email:password:datas:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "5216FB00-BE6F-4CCC-8BB9-026556B6A467 - 905db0810925e479"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TCHA.AuthManager.createUserWith(email: Swift.String, password: Swift.String, datas: Swift.Dictionary&lt;Swift.String, Any&gt;, completion: (Swift.Optional&lt;__C.FIRAuthDataResult&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "TCHA"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yannickedouard/Desktop/iosProjectsApp/TCHA/TCHA/TCHA/Core/Authentification/Managers/WebServiceManager/AuthManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "304">
+               </Location>
+               <Location
+                  uuid = "5216FB00-BE6F-4CCC-8BB9-026556B6A467 - adb0a639b79b1030"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;__C.FIRAuthDataResult&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in TCHA.AuthManager.createUserWith(email: Swift.String, password: Swift.String, datas: Swift.Dictionary&lt;Swift.String, Any&gt;, completion: (Swift.Optional&lt;__C.FIRAuthDataResult&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "TCHA"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yannickedouard/Desktop/iosProjectsApp/TCHA/TCHA/TCHA/Core/Authentification/Managers/WebServiceManager/AuthManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "32"
+                  endingLineNumber = "32"
+                  offsetFromSymbolStart = "104">
+               </Location>
+               <Location
+                  uuid = "5216FB00-BE6F-4CCC-8BB9-026556B6A467 - 905db0810925e426"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TCHA.AuthManager.createUserWith(email: Swift.String, password: Swift.String, datas: Swift.Dictionary&lt;Swift.String, Any&gt;, completion: (Swift.Optional&lt;__C.FIRAuthDataResult&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "TCHA"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yannickedouard/Desktop/iosProjectsApp/TCHA/TCHA/TCHA/Core/Authentification/Managers/WebServiceManager/AuthManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "304">
+               </Location>
+               <Location
+                  uuid = "5216FB00-BE6F-4CCC-8BB9-026556B6A467 - adb0a639b79b1013"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;__C.FIRAuthDataResult&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in TCHA.AuthManager.createUserWith(email: Swift.String, password: Swift.String, datas: Swift.Dictionary&lt;Swift.String, Any&gt;, completion: (Swift.Optional&lt;__C.FIRAuthDataResult&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "TCHA"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yannickedouard/Desktop/iosProjectsApp/TCHA/TCHA/TCHA/Core/Authentification/Managers/WebServiceManager/AuthManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "104">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C64ABF6B-BD6F-4ECC-8B54-0BE01AD6B867"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TCHA/Core/Authentification/Managers/WebServiceManager/AuthManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "34"
+            endingLineNumber = "34"
+            landmarkName = "createUserWith(email:password:datas:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "C64ABF6B-BD6F-4ECC-8B54-0BE01AD6B867 - adb0a639b79b1072"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;__C.FIRAuthDataResult&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in TCHA.AuthManager.createUserWith(email: Swift.String, password: Swift.String, datas: Swift.Dictionary&lt;Swift.String, Any&gt;, completion: (Swift.Optional&lt;__C.FIRAuthDataResult&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "TCHA"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yannickedouard/Desktop/iosProjectsApp/TCHA/TCHA/TCHA/Core/Authentification/Managers/WebServiceManager/AuthManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "288">
+               </Location>
+               <Location
+                  uuid = "C64ABF6B-BD6F-4ECC-8B54-0BE01AD6B867 - adb0a639b79b1072"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;__C.FIRAuthDataResult&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in TCHA.AuthManager.createUserWith(email: Swift.String, password: Swift.String, datas: Swift.Dictionary&lt;Swift.String, Any&gt;, completion: (Swift.Optional&lt;__C.FIRAuthDataResult&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "TCHA"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yannickedouard/Desktop/iosProjectsApp/TCHA/TCHA/TCHA/Core/Authentification/Managers/WebServiceManager/AuthManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "252">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "74D80634-994D-450E-A7EF-53BC63B58128"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TCHA/Core/Authentification/Managers/WebServiceManager/AuthManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "39"
+            endingLineNumber = "39"
+            landmarkName = "createUserWith(email:password:datas:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "74D80634-994D-450E-A7EF-53BC63B58128 - 7d01338b8a78d3d8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Swift.Error&gt;) -&gt; () in closure #1 (Swift.Optional&lt;__C.FIRAuthDataResult&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in TCHA.AuthManager.createUserWith(email: Swift.String, password: Swift.String, datas: Swift.Dictionary&lt;Swift.String, Any&gt;, completion: (Swift.Optional&lt;__C.FIRAuthDataResult&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "TCHA"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yannickedouard/Desktop/iosProjectsApp/TCHA/TCHA/TCHA/Core/Authentification/Managers/WebServiceManager/AuthManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "39"
+                  endingLineNumber = "39"
+                  offsetFromSymbolStart = "72">
+               </Location>
+               <Location
+                  uuid = "74D80634-994D-450E-A7EF-53BC63B58128 - adb0a639b79b13d9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;__C.FIRAuthDataResult&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in TCHA.AuthManager.createUserWith(email: Swift.String, password: Swift.String, datas: Swift.Dictionary&lt;Swift.String, Any&gt;, completion: (Swift.Optional&lt;__C.FIRAuthDataResult&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "TCHA"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yannickedouard/Desktop/iosProjectsApp/TCHA/TCHA/TCHA/Core/Authentification/Managers/WebServiceManager/AuthManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "39"
+                  endingLineNumber = "39"
+                  offsetFromSymbolStart = "908">
+               </Location>
+               <Location
+                  uuid = "74D80634-994D-450E-A7EF-53BC63B58128 - 7d01338b8a78d339"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Swift.Error&gt;) -&gt; () in closure #1 (Swift.Optional&lt;__C.FIRAuthDataResult&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in TCHA.AuthManager.createUserWith(email: Swift.String, password: Swift.String, datas: Swift.Dictionary&lt;Swift.String, Any&gt;, completion: (Swift.Optional&lt;__C.FIRAuthDataResult&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "TCHA"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yannickedouard/Desktop/iosProjectsApp/TCHA/TCHA/TCHA/Core/Authentification/Managers/WebServiceManager/AuthManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "40"
+                  endingLineNumber = "40"
+                  offsetFromSymbolStart = "72">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9DA39ACE-3723-4CF1-B742-B348D84F1634"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TCHA/CoreAndUtils/Managers/FirestoreManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "35"
+            endingLineNumber = "35"
+            landmarkName = "addUserDocument(datas:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "51B6F743-2A6B-453E-BFE2-CD951FE9AB84"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TCHA/CoreAndUtils/Managers/FirestoreManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "36"
+            endingLineNumber = "36"
+            landmarkName = "addUserDocument(datas:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5AAC8B2E-89B4-4A60-B302-78E042820F8F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TCHA/CoreAndUtils/Managers/FirestoreManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "38"
+            endingLineNumber = "38"
+            landmarkName = "addUserDocument(datas:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0524C3BA-42C3-421B-93C8-04ADC4BF0753"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TCHA/Core/Authentification/Managers/WebServiceManager/AuthManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "29"
+            endingLineNumber = "29"
+            landmarkName = "createUserWith(email:password:datas:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E10A48CE-8A20-4536-A9D5-524245D94F7E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TCHA/Core/Authentification/Controllers/UsesConditionsViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "171"
+            endingLineNumber = "171"
+            landmarkName = "nextButtonPressed()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

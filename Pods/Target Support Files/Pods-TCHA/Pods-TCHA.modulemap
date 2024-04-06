@@ -1,0 +1,6 @@
+framework module Pods_TCHA {
+  umbrella header "Pods-TCHA-umbrella.h"
+
+  export *
+  module * { export * }
+}

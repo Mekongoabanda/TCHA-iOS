@@ -1,0 +1,27 @@
+/* 
+  MainPage.strings
+  TCHA
+
+  Created by Yannick Edouard MEKONGO ABANDA on 29/01/2023.
+  
+*/
+
+//TAB BAR
+"search" = "Rechercher";
+"publier" = "Publier";
+"routes" = "Vos trajets";
+"chat" = "Chat";
+"profile" = "Profil";
+
+//ShareViewController
+"previous" = "Précédent";
+"travelInformations" = "Informations du voyage";
+
+//searchViewController
+"departure" = "Départ";
+"destination" = "Destination";
+"departure_date" = "Date de départ";
+"weight" = "Nombre de kg souhaité";
+
+
+

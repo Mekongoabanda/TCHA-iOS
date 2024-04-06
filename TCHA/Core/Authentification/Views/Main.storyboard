@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="21507" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="Y6W-OH-hqX">
+    <device id="retina6_1" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="21505"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="System colors in document resources" minToolsVersion="11.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <scenes>
+        <!--Main View Controller-->
+        <scene sceneID="s0d-6b-0kx">
+            <objects>
+                <viewController storyboardIdentifier="signup" useStoryboardIdentifierAsRestorationIdentifier="YES" id="Y6W-OH-hqX" customClass="MainViewController" customModule="TCHA" customModuleProvider="target" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="5EZ-qb-Rvc">
+                        <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="wBe-Yb-Toi" customClass="TextFieldWithIcon" customModule="TCHA" customModuleProvider="target">
+                                <rect key="frame" x="10" y="812" width="394" height="30"/>
+                                <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="30" id="C9H-KT-DY7"/>
+                                </constraints>
+                            </view>
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="tcha_cover" translatesAutoresizingMaskIntoConstraints="NO" id="4rZ-Va-JTb">
+                                <rect key="frame" x="0.0" y="48" width="414" height="380"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="380" id="KZE-zy-R9P"/>
+                                </constraints>
+                            </imageView>
+                            <view contentMode="scaleToFill" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="4kw-r8-Ypb" customClass="AuthRoundedFormView" customModule="TCHA" customModuleProvider="target">
+                                <rect key="frame" x="59" y="324" width="302" height="295"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                            </view>
+                            <label opaque="NO" userInteractionEnabled="NO" alpha="0.34999999999999998" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Inscription" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="TaN-lg-11n">
+                                <rect key="frame" x="139.5" y="68" width="135" height="32.5"/>
+                                <fontDescription key="fontDescription" type="boldSystem" pointSize="27"/>
+                                <nil key="textColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                        </subviews>
+                        <viewLayoutGuide key="safeArea" id="vDu-zF-Fre"/>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        <constraints>
+                            <constraint firstItem="4rZ-Va-JTb" firstAttribute="trailing" secondItem="vDu-zF-Fre" secondAttribute="trailing" id="1YP-vv-jeF"/>
+                            <constraint firstItem="vDu-zF-Fre" firstAttribute="bottom" secondItem="wBe-Yb-Toi" secondAttribute="bottom" constant="20" id="2KO-2S-hcY"/>
+                            <constraint firstItem="TaN-lg-11n" firstAttribute="centerX" secondItem="5EZ-qb-Rvc" secondAttribute="centerX" id="4LO-7J-gHX"/>
+                            <constraint firstItem="4rZ-Va-JTb" firstAttribute="leading" secondItem="vDu-zF-Fre" secondAttribute="leading" id="8vz-t2-Sah"/>
+                            <constraint firstItem="wBe-Yb-Toi" firstAttribute="centerX" secondItem="5EZ-qb-Rvc" secondAttribute="centerX" id="Byh-Cy-clF"/>
+                            <constraint firstItem="4rZ-Va-JTb" firstAttribute="top" secondItem="vDu-zF-Fre" secondAttribute="top" id="J0l-5V-zlv"/>
+                            <constraint firstItem="vDu-zF-Fre" firstAttribute="trailing" secondItem="wBe-Yb-Toi" secondAttribute="trailing" constant="10" id="PxE-Mj-U4t"/>
+                            <constraint firstItem="TaN-lg-11n" firstAttribute="top" secondItem="vDu-zF-Fre" secondAttribute="top" constant="20" id="f51-mM-xzC"/>
+                            <constraint firstItem="wBe-Yb-Toi" firstAttribute="leading" secondItem="vDu-zF-Fre" secondAttribute="leading" constant="10" id="se4-VA-uXd"/>
+                        </constraints>
+                    </view>
+                    <connections>
+                        <outlet property="AuthRoundedFormView" destination="4kw-r8-Ypb" id="ibD-1r-6bI"/>
+                        <outlet property="signinLabel" destination="TaN-lg-11n" id="GpD-hp-yLP"/>
+                        <outlet property="textFieldViewAndIcon" destination="wBe-Yb-Toi" id="6EW-xd-hm5"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="Ief-a0-LHa" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="100.00000000000001" y="92.410714285714278"/>
+        </scene>
+        <!--Sign In View Controller-->
+        <scene sceneID="4Jl-On-fgd">
+            <objects>
+                <viewController storyboardIdentifier="signin" useStoryboardIdentifierAsRestorationIdentifier="YES" id="qbK-4f-OZT" customClass="SignInViewController" customModule="TCHA" customModuleProvider="target" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="XtE-7K-w3I">
+                        <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="tcha_cover" translatesAutoresizingMaskIntoConstraints="NO" id="ZI4-Dc-Mqv">
+                                <rect key="frame" x="0.0" y="44" width="414" height="380"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            </imageView>
+                            <label opaque="NO" userInteractionEnabled="NO" alpha="0.34999999403953552" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Connexion" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="vX8-pk-mrY">
+                                <rect key="frame" x="139" y="68" width="136" height="33"/>
+                                <fontDescription key="fontDescription" type="boldSystem" pointSize="27"/>
+                                <nil key="textColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <view contentMode="scaleToFill" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="tud-eU-0Zz" customClass="AuthRoundedFormView" customModule="TCHA" customModuleProvider="target">
+                                <rect key="frame" x="57" y="374" width="302" height="295"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                            </view>
+                            <imageView clipsSubviews="YES" alpha="0.5" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="arrowshape.turn.up.backward.fill" catalog="system" translatesAutoresizingMaskIntoConstraints="NO" id="gIm-2k-d6a">
+                                <rect key="frame" x="14" y="67" width="47" height="35"/>
+                                <color key="tintColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="37.5" id="2rQ-oQ-svu"/>
+                                    <constraint firstAttribute="width" constant="47" id="9Mf-VH-pd6"/>
+                                </constraints>
+                            </imageView>
+                        </subviews>
+                        <viewLayoutGuide key="safeArea" id="u3A-eK-8uD"/>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        <constraints>
+                            <constraint firstItem="vX8-pk-mrY" firstAttribute="top" secondItem="u3A-eK-8uD" secondAttribute="top" constant="20" id="cpl-0F-u5W"/>
+                            <constraint firstItem="vX8-pk-mrY" firstAttribute="centerX" secondItem="XtE-7K-w3I" secondAttribute="centerX" id="dhH-qo-lVM"/>
+                            <constraint firstItem="gIm-2k-d6a" firstAttribute="top" secondItem="u3A-eK-8uD" secondAttribute="top" constant="18" id="rBV-ph-Pod"/>
+                            <constraint firstItem="gIm-2k-d6a" firstAttribute="leading" secondItem="u3A-eK-8uD" secondAttribute="leading" constant="14" id="zXl-5D-1Vp"/>
+                        </constraints>
+                    </view>
+                    <connections>
+                        <outlet property="authRoundedFormView" destination="tud-eU-0Zz" id="qMX-6B-EBU"/>
+                        <outlet property="backButton" destination="gIm-2k-d6a" id="nwS-cd-e3J"/>
+                        <outlet property="signinLabel" destination="vX8-pk-mrY" id="tvH-en-ouz"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="B8i-rr-J5h" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="832" y="92"/>
+        </scene>
+        <!--Uses Conditions View Controller-->
+        <scene sceneID="CcZ-c9-gCU">
+            <objects>
+                <viewController storyboardIdentifier="acceptUseConditions" useStoryboardIdentifierAsRestorationIdentifier="YES" id="08b-9f-TNR" customClass="UsesConditionsViewController" customModule="TCHA" customModuleProvider="target" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="7oB-dD-nTM">
+                        <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <imageView clipsSubviews="YES" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="arrowshape.turn.up.backward.fill" catalog="system" translatesAutoresizingMaskIntoConstraints="NO" id="Uov-I8-YIr">
+                                <rect key="frame" x="14" y="67" width="47" height="35"/>
+                                <color key="tintColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                <constraints>
+                                    <constraint firstAttribute="width" constant="47" id="AdD-U3-edg"/>
+                                    <constraint firstAttribute="height" constant="37.5" id="RDI-Zy-gy0"/>
+                                </constraints>
+                            </imageView>
+                            <view clipsSubviews="YES" contentMode="scaleToFill" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="KJe-Pf-2sZ">
+                                <rect key="frame" x="15" y="168" width="384" height="420"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <subviews>
+                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Je certifie avoir pris connaissance des Conditions Générales d’Utilisation et en accepte les termes." lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="lFM-uA-b4h">
+                                        <rect key="frame" x="8" y="136" width="262" height="53"/>
+                                        <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                        <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                                        <nil key="textColor"/>
+                                        <nil key="highlightedColor"/>
+                                    </label>
+                                    <switch opaque="NO" contentMode="scaleToFill" horizontalHuggingPriority="750" verticalHuggingPriority="750" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" on="YES" translatesAutoresizingMaskIntoConstraints="NO" id="IOJ-gv-S15">
+                                        <rect key="frame" x="305" y="147" width="49" height="31"/>
+                                        <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                    </switch>
+                                    <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="Oxc-rF-WKK">
+                                        <rect key="frame" x="34" y="210" width="299" height="1"/>
+                                        <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                        <color key="backgroundColor" systemColor="opaqueSeparatorColor"/>
+                                    </imageView>
+                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" lineBreakMode="tailTruncation" numberOfLines="10" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="EkG-gH-T00">
+                                        <rect key="frame" x="12" y="234" width="350" height="101"/>
+                                        <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                        <string key="text">Nous vous informerons à chaque fois lorsqu’il y aura une mise à jour des conditions générales d’utilisation afin que vous puissiez toujours être au courant de la façon dont nous traitons vos données, ceci dans le but de vous fournir de meilleurs services.</string>
+                                        <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                                        <nil key="textColor"/>
+                                        <nil key="highlightedColor"/>
+                                    </label>
+                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Veuillez lire nos conditions d'utilisations afin de pouvoir utiliser nos services" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Uc6-OX-LBL">
+                                        <rect key="frame" x="8" y="64" width="358" height="53"/>
+                                        <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                        <fontDescription key="fontDescription" type="boldSystem" pointSize="14"/>
+                                        <nil key="textColor"/>
+                                        <nil key="highlightedColor"/>
+                                    </label>
+                                    <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="OlR-qQ-HKw">
+                                        <rect key="frame" x="132" y="328" width="120" height="84"/>
+                                        <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                    </imageView>
+                                </subviews>
+                                <color key="backgroundColor" systemColor="systemGray6Color"/>
+                            </view>
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="agreement" translatesAutoresizingMaskIntoConstraints="NO" id="ygG-F5-SAG" customClass="UICircleImageView" customModule="TCHA" customModuleProvider="target">
+                                <rect key="frame" x="172" y="131" width="70" height="70"/>
+                                <constraints>
+                                    <constraint firstAttribute="width" constant="70" id="MKg-X1-Qaq"/>
+                                    <constraint firstAttribute="height" constant="70" id="dd0-Pp-Wwj"/>
+                                </constraints>
+                            </imageView>
+                        </subviews>
+                        <viewLayoutGuide key="safeArea" id="UqB-Xa-fmh"/>
+                        <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                        <constraints>
+                            <constraint firstItem="ygG-F5-SAG" firstAttribute="top" secondItem="UqB-Xa-fmh" secondAttribute="top" constant="83" id="14Y-LU-Jex"/>
+                            <constraint firstItem="ygG-F5-SAG" firstAttribute="centerX" secondItem="7oB-dD-nTM" secondAttribute="centerX" id="Fqi-6n-BAh"/>
+                            <constraint firstItem="Uov-I8-YIr" firstAttribute="top" secondItem="UqB-Xa-fmh" secondAttribute="top" constant="18" id="IoE-kk-Z4D"/>
+                            <constraint firstItem="Uov-I8-YIr" firstAttribute="leading" secondItem="UqB-Xa-fmh" secondAttribute="leading" constant="14" id="ZWZ-7i-3pV"/>
+                        </constraints>
+                    </view>
+                    <connections>
+                        <outlet property="backButton" destination="Uov-I8-YIr" id="rYp-5j-0JG"/>
+                        <outlet property="circleView" destination="ygG-F5-SAG" id="7Mc-lf-vnx"/>
+                        <outlet property="informationsLabel" destination="EkG-gH-T00" id="PNU-Zw-Rgb"/>
+                        <outlet property="isAgreeLabel" destination="lFM-uA-b4h" id="5rq-wJ-9b8"/>
+                        <outlet property="logoImage" destination="OlR-qQ-HKw" id="lYx-1V-5Mh"/>
+                        <outlet property="readConditionsLabel" destination="Uc6-OX-LBL" id="lDK-ky-ija"/>
+                        <outlet property="separatorView" destination="Oxc-rF-WKK" id="h6i-Bf-XaT"/>
+                        <outlet property="shadowView" destination="KJe-Pf-2sZ" id="fT0-Kz-BcP"/>
+                        <outlet property="switchButton" destination="IOJ-gv-S15" id="TIC-1D-KVV"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="mCw-cV-BTM" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="1604.3478260869567" y="87.723214285714278"/>
+        </scene>
+    </scenes>
+    <resources>
+        <image name="agreement" width="54" height="54"/>
+        <image name="arrowshape.turn.up.backward.fill" catalog="system" width="128" height="104"/>
+        <image name="tcha_cover" width="120" height="117"/>
+        <systemColor name="opaqueSeparatorColor">
+            <color red="0.77647058823529413" green="0.77647058823529413" blue="0.78431372549019607" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+        </systemColor>
+        <systemColor name="systemBackgroundColor">
+            <color white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+        </systemColor>
+        <systemColor name="systemGray6Color">
+            <color red="0.94901960784313721" green="0.94901960784313721" blue="0.96862745098039216" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+        </systemColor>
+    </resources>
+</document>

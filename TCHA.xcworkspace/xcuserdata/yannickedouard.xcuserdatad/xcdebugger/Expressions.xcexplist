@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "UsesConditionsViewController.setupStackViews():UsesConditionsViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.horizontalStackView">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #2 in UsesConditionsViewController.makeConstraints():UsesConditionsViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.shadowView.subviews">
+            </PersistentString>
+            <PersistentString
+               value = "shadowView.subviews">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "static AppDelegate.$main():AppDelegate.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "viewController?.view">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "UsesConditionsViewController.setupStacksElements():UsesConditionsViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.verticalStackView.subviews">
+            </PersistentString>
+            <PersistentString
+               value = "self.horizontalStackView">
+            </PersistentString>
+            <PersistentString
+               value = "self.horizontalStackView.subviews[0].text">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "CustomButton.setupMainButton():CustomButton.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.titleLabel?.text">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "TabBarViewController.viewDidLoad():TabBarViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.tabBarController?.tabBar.items">
+            </PersistentString>
+            <PersistentString
+               value = "self.tabBarController?.tabBar">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "AuthRoundedFormView.buttonPressed():AuthRoundedFormView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "textFieldWithIcon.textField.text">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>

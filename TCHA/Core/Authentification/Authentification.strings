@@ -1,0 +1,36 @@
+/* 
+  Authentification.strings
+  TCHA
+
+  Created by Yannick Edouard MEKONGO ABANDA on 16/10/2022.
+  
+*/
+
+//SignUp and SignIn
+"haveExistingAccount" = "Déja un compte? Cliquez pour vous connecter";
+"noExistingAccount" = "Pas encore de compte? Cliquez pour vous inscrire";
+"signin" = "Connexion";
+"signup" = "Inscription";
+"name" = "Nom";
+"firstname" = "Prénom";
+"birthdate" = "Date de naissance";
+"mail" = "Mail";
+"phoneNumber" = "Téléphone (optionnel)";
+"password" = "Mot de passe";
+"errorInForm" = "Une erreur est survenue dans le formulaire";
+"nameMustNotBeEmpty" = "Le nom ne doit pas être vide";
+"firstnameMustNotBeEmpty" = "Le prénom ne doit pas être vide";
+"birthdateNotCorrect" = "La date de naissance est incorrect";
+"incorrectEmail" = "L'adresse email est incorrect";
+"incorrectPhoneNumber" = "Le numéro de téléphone est incorrect (vérifiez l'indicatif)";
+"resetPassword" = "J'ai oublié mon mot de passe";
+
+//UserIdentity
+"almostFinish" = "Presque terminé ! Veuillez ajouter une photo de profil et un document d’identité officiel. Vous pourrez également renseigner ces informations et bien d’autres plus-tard sur l’onglet profil.";
+
+//Uses conditions
+"nextButton" = "Suivant";
+"readUsesConditions" = "Veuillez lire nos conditions d’utilisations afin de pouvoir utiliser nos services :";
+"checkUseCondition" = "Je certifie avoir pris connaissance des Conditions Générales d’Utilisation et en accepte les termes.";
+"useConditionInfos" = "Nous vous informerons à chaque fois lorsqu’il y aura une mise à jour des conditions générales d’utilisation afin que vous puissiez toujours être au courant de la façon dont nous traitons vos données, ceci dans le but de vous fournir de meilleurs services.";
+

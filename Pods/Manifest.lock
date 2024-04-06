@@ -1,0 +1,20 @@
+PODS:
+  - SnapKit (5.6.0)
+  - SwiftyBeaver (2.0.0)
+
+DEPENDENCIES:
+  - SnapKit (~> 5.6.0)
+  - SwiftyBeaver
+
+SPEC REPOS:
+  trunk:
+    - SnapKit
+    - SwiftyBeaver
+
+SPEC CHECKSUMS:
+  SnapKit: e01d52ebb8ddbc333eefe2132acf85c8227d9c25
+  SwiftyBeaver: 014b0c12065026b731bac80305294f27d63e27f6
+
+PODFILE CHECKSUM: 53ea3545af00b7af7fa16bfee996c555390e4c0b
+
+COCOAPODS: 1.13.0
