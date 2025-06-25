@@ -3,7 +3,7 @@ This is official private repo of TCHA iOS
 
 ![Logo](https://github.com/Mekongoabanda/TCHA/blob/main/app/src/main/res/drawable-xxxhdpi/logo_tcha_horizontal.png?raw=true)
 
-# TCHA Android (Technical documentation) (In progress, not finished)
+# TCHA iOS (Technical documentation) (In progress, not finished)
 A brief technical description of TCHA features and code. This document must be updated with each major code update.
 
 ## Tech Stack
